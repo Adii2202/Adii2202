@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **adiningule2@gmail.com**
 
+- <a href="https://www.freelancer.com/u/Adii22" target="blank">🧑‍💻 Freelance Profile</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-ningule/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-ningule/" height="30" width="40" /></a>
