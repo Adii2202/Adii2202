@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **adiningule2@gmail.com**
 
-- <a href="https://www.freelancer.com/u/Adii22" target="blank">🧑‍💻 Freelance Profile</a>
+- 🧑‍💻 <a href="https://www.freelancer.com/u/Adii22" target="blank">Freelance Profile</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
