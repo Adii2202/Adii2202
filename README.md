@@ -17,7 +17,9 @@
 - 📫 How to reach me **adiningule2@gmail.com**
 
 - 🧑‍💻 <a href="https://www.freelancer.com/u/Adii22" target="blank">Freelance Profile</a>
+[![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/jonathangin52) [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
 
+<!--
 <div style="background: linear-gradient(to bottom right, #8a2be2, #4b0082); border: 2px solid #8a2be2; border-radius: 15px; padding: 20px; width: fit-content; margin: 0 auto;">
     <h3 style="color: #ffffff; font-family: Arial, sans-serif; text-align: center;">Connect with me:</h3>
     <p style="text-align: center;">
@@ -35,7 +37,7 @@
         </a>
     </p>
 </div>
-
+-->
 <div style="background-image: linear-gradient(to right, #8A2BE2, #FF00FF); padding: 20px; border-radius: 10px; border: 2px solid #8A2BE2;">
   <h2 align="center" style="color: white;">Languages and Tools 🚀</h2>
   
