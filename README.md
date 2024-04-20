@@ -29,7 +29,7 @@
         <img alt="Aditya | X" width="40" height="40" src="https://skillicons.dev/icons?i=twitter" />
     </a>&nbsp;&nbsp; 
     <a href="mailto:adiningule2@gmail.com?subject='Hey there, nice connecting with you'" target="_blank">
-        <img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
+        <img alt="Gmail" src="gmail.png" width="40" height="40"/>
     </a>
 </p>
 
