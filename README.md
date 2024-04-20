@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adii2202&label=Profile%20views&color=0e75b6&style=flat" alt="adii2202" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adii2202" alt="adii2202" /></a> </p>
-
 - 🌱 I’m currently learning **Machine learning | Flutter**
 
 - 💬 Ask me about **Full Stack Development | Machine learning | Flutter**
