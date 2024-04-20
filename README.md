@@ -17,7 +17,23 @@
 - 📫 How to reach me **adiningule2@gmail.com**
 
 - 🧑‍💻 <a href="https://www.freelancer.com/u/Adii22" target="blank">Freelance Profile</a>
-[![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/jonathangin52) [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
+
+<p align="center">
+    <a href="https://discord.com/users/925950240278863962" target="_blank">
+        <img alt="Aditya | Discord" width="40" height="40" src="https://skillicons.dev/icons?i=discord" />
+    </a>&nbsp;&nbsp; 
+    <a href="https://linkedin.com/in/aditya-ningule/" target="_blank">
+        <img alt="Aditya | LinkedIn" width="40" height="40" src="https://skillicons.dev/icons?i=linkedin" />
+    </a>&nbsp;&nbsp; 
+    <a href="https://twitter.com/Adii2202" target="_blank">
+        <img alt="Aditya | X" width="40" height="40" src="https://skillicons.dev/icons?i=twitter" />
+    </a>&nbsp;&nbsp; 
+    <a href="mailto:adiningule2@gmail.com?subject='Hey there, nice connecting with you'" target="_blank">
+        <img alt="Gmail" src="assets/gmail.png" width="40" height="40"/>
+    </a>
+</p>
+
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Adii2202/)](https://leetcode.com/Adii2202/)
 
 <!--
 <div style="background: linear-gradient(to bottom right, #8a2be2, #4b0082); border: 2px solid #8a2be2; border-radius: 15px; padding: 20px; width: fit-content; margin: 0 auto;">
