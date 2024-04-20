@@ -7,10 +7,8 @@
 </div>
 <hr>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Adii2202/count.svg" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adii2202&label=Profile%20views&color=0e75b6&style=flat" alt="adii2202" /> </p>
+
 
 - 🌱 I’m currently learning **AI | Flutter**
 
