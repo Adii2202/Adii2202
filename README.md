@@ -92,11 +92,11 @@
 </div>
 
 
-  <p align="center">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adii2202&show_icons=true&locale=en&layout=compact" alt="adii2202 Top Languages" />
   </p>
 
-  <p align="center">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=adii2202&show_icons=true&locale=en" alt="adii2202 Stats" />
   </p>
 
