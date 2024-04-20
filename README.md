@@ -31,6 +31,9 @@
     <a href="mailto:adiningule2@gmail.com?subject='Hey there, nice connecting with you'" target="_blank">
         <img alt="Gmail" src="gmail.png" width="40" height="40"/>
     </a>
+    <a href="https://www.leetcode.com/adii2202/" target="_blank">
+        <img alt="Gmail" src="LeetCode_logo_black.png" width="40" height="40"/>
+    </a>
 </p>
 
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Adii2202/)](https://leetcode.com/Adii2202/)
