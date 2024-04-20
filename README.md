@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adii2202&label=Profile%20views&color=0e75b6&style=flat" alt="adii2202" /> </p>
 
-- 🌱 I’m currently learning **Machine learning | Flutter**
+- 🌱 I’m currently learning **AI | Flutter**
 
 - 💬 Ask me about **Full Stack Development | Machine learning | Flutter**
 
