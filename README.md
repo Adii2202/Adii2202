@@ -91,6 +91,12 @@
   </p>
 </div>
 
+<div align="center">
+<a href="https://github.com/OmkarPh">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adii2202&count_private=true&theme=algolia" height="180em"/><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adii2202&count_private=true&theme=algolia" height="180em" />
+<!--<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmkarPh&count_private=true&theme=2077" height="180em" />-->
+<!--<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarPh&count_private=true&theme=2077" height="180em" />-->
+</div>
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adii2202&show_icons=true&locale=en&layout=compact" alt="adii2202 Top Languages" />
