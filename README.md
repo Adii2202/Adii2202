@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4500&pause=1000&color=0E75B6&width=350&center=true&lines=%3C+Full+Stack+Developer+%2F%3E" alt="Typing Animation">
 </div>
 <hr>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heyy+I+am+Aditya;Full+Stack+Developer)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adii2202&label=Profile%20views&color=0e75b6&style=flat" alt="adii2202" /> </p>
 
 
@@ -35,8 +35,6 @@
         <img alt="LeetCode" src="leetcodelogo.png" width="40" height="40"/>
     </a>
 </p>
-
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Adii2202/)](https://leetcode.com/Adii2202/)
 
 <!--
 <div style="background: linear-gradient(to bottom right, #8a2be2, #4b0082); border: 2px solid #8a2be2; border-radius: 15px; padding: 20px; width: fit-content; margin: 0 auto;">
