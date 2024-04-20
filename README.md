@@ -26,7 +26,7 @@
         <img alt="LeetCode" src="leetcodelogo.png" width="40" height="40"/>
     </a>
     <a href="https://www.freelancer.com/u/Adii22" target="_blank">
-        <img alt="Freelancer" src="freelancer.jpg" width="40" height="40"/>
+        <img alt="Freelancer" src="freelancer.jpeg" width="40" height="40"/>
     </a>
 </p>
 
