@@ -63,7 +63,7 @@
 
   <h3 align="center" style="color: white;">Backend</h3>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+    <img src="express.png" alt="Express.js" width="40" height="40"/>
     <img src="flask.png" alt="Flask" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </p>
