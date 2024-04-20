@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋+I+am+Aditya;Full+Stack+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adii2202&label=Profile%20views&color=0e75b6&style=flat" alt="adii2202" /> </p>
-
-- 💬 Ask me about **Full Stack Development | AI | Machine learning | Flutter**
-
-- 📫 How to reach me **adiningule2@gmail.com**
-
 <p align="center">
     <a href="https://discord.com/users/925950240278863962" target="_blank">
         <img alt="Aditya | Discord" width="40" height="40" src="https://skillicons.dev/icons?i=discord" />
@@ -117,10 +112,3 @@
   <br>
 </p>
 
-
-<div align="center">
-<a href="https://github.com/Adii2202">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adii2202&count_private=true&theme=algolia" height="180em"/><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adii2202&count_private=true&theme=algolia" height="180em" />
-<!--<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmkarPh&count_private=true&theme=2077" height="180em" />-->
-<!--<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarPh&count_private=true&theme=2077" height="180em" />-->
-</div>
