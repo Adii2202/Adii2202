@@ -70,11 +70,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </p>
-
-  <h3 align="center" style="color: white;">A collection of tools and languages I wield to shape my digital dreams!</h3>
 </div>
-
-<h3 align="center">A collection of tools and languages I wield to shape my digital dreams!</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adii2202&show_icons=true&locale=en&layout=compact" alt="adii2202" /></p>
 
