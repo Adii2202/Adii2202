@@ -30,7 +30,7 @@
 </div>
 
 <div style="background-image: linear-gradient(to right, #8A2BE2, #FF00FF); padding: 20px; border-radius: 10px; border: 2px solid #8A2BE2;">
-  <h2 align="center" style="color: white;">Welcome to My Tech Playground! 🚀</h2>
+  <h2 align="center" style="color: white;">Languages and Tools 🚀</h2>
   
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -72,7 +72,13 @@
   </p>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adii2202&show_icons=true&locale=en&layout=compact" alt="adii2202" /></p>
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adii2202&show_icons=true&locale=en&layout=compact" alt="adii2202 Top Languages" />
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adii2202&show_icons=true&locale=en" alt="adii2202" /></p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=adii2202&show_icons=true&locale=en" alt="adii2202 Stats" />
+  </p>
+</div>
 
