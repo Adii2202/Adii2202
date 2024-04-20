@@ -92,7 +92,6 @@
 </div>
 
 
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adii2202&show_icons=true&locale=en&layout=compact" alt="adii2202 Top Languages" />
   </p>
@@ -100,5 +99,5 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=adii2202&show_icons=true&locale=en" alt="adii2202 Stats" />
   </p>
-</div>
+
 
