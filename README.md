@@ -32,7 +32,7 @@
         <img alt="Gmail" src="gmail.png" width="40" height="40"/>
     </a>
     <a href="https://www.leetcode.com/adii2202/" target="_blank">
-        <img alt="Gmail" src="LeetCode_logo_black.png" width="40" height="40"/>
+        <img alt="Gmail" src="leetcode.png" width="40" height="40"/>
     </a>
 </p>
 
