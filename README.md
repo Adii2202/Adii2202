@@ -28,11 +28,9 @@
     </a>
 </p>
 
-
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</p>
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31argg2pxir3wljqfyrp3dx5ebvu)
+</div>
 
 <!--
 <div style="background: linear-gradient(to bottom right, #8a2be2, #4b0082); border: 2px solid #8a2be2; border-radius: 15px; padding: 20px; width: fit-content; margin: 0 auto;">
@@ -53,7 +51,8 @@
     </p>
 </div>
 -->
-<div style="background-image: linear-gradient(to right, #8A2BE2, #FF00FF); padding: 20px; border-radius: 10px; border: 2px solid #8A2BE2;">
+<!--
+<!<div style="background-image: linear-gradient(to right, #8A2BE2, #FF00FF); padding: 20px; border-radius: 10px; border: 2px solid #8A2BE2;">
   <h2 align="center" style="color: white;">Languages and Tools 🚀</h2>
   
   <div align="center">
@@ -96,9 +95,9 @@
      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </p>
 </div>
-
+-->
 <div align="center">
-<a href="https://github.com/OmkarPh">
+<a href="https://github.com/Adii2202">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adii2202&count_private=true&theme=algolia" height="180em"/><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adii2202&count_private=true&theme=algolia" height="180em" />
 <!--<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmkarPh&count_private=true&theme=2077" height="180em" />-->
 <!--<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarPh&count_private=true&theme=2077" height="180em" />-->
