@@ -11,25 +11,22 @@
 
 - 🧑‍💻 <a href="https://www.freelancer.com/u/Adii22" target="blank">Freelance Profile</a>
 
-<div style="background: linear-gradient(to bottom, #8A2BE2, #4B0082); border-radius: 10px; padding: 20px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-
-    <h3 style="color: #ffffff; font-family: Arial, sans-serif;">Connect with me:</h3>
-    
+<div style="background: linear-gradient(to right, #8e2de2, #4a00e0); border-radius: 10px; padding: 20px; text-align: center; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);">
+    <h3 style="color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; letter-spacing: 1px; text-transform: uppercase;">Connect with me:</h3>
     <p style="text-align: center;">
         <a href="https://linkedin.com/in/aditya-ningule/" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3));" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin: 0 10px;" />
         </a>
         <a href="https://twitter.com/Adii2202" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Twitter" height="30" width="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3));" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Twitter" height="30" width="40" style="margin: 0 10px;" />
         </a>
         <a href="https://www.hackerrank.com/profile/adiningule2" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3));" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="margin: 0 10px;" />
         </a>
         <a href="https://www.leetcode.com/adii2202/" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3));" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin: 0 10px;" />
         </a>
     </p>
-    
 </div>
 
 
