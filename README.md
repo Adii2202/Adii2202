@@ -11,20 +11,20 @@
 
 - 🧑‍💻 <a href="https://www.freelancer.com/u/Adii22" target="blank">Freelance Profile</a>
 
-<div style="background: linear-gradient(135deg, #6a11cb, #2575fc); border-radius: 10px; padding: 20px; width: fit-content; margin: auto; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3 style="color: #ffffff; font-family: Arial, sans-serif; text-align: center; margin-bottom: 20px;">Connect with me:</h3>
+<div style="background: linear-gradient(to bottom right, #8a2be2, #4b0082); border: 2px solid #8a2be2; border-radius: 15px; padding: 20px; width: fit-content; margin: 0 auto;">
+    <h3 style="color: #ffffff; font-family: Arial, sans-serif; text-align: center;">Connect with me:</h3>
     <p style="text-align: center;">
         <a href="https://linkedin.com/in/aditya-ningule/" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 15px;" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
         </a>
         <a href="https://twitter.com/Adii2202" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Twitter" height="30" width="40" style="margin-right: 15px;" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Twitter" height="30" width="40" style="margin-right: 10px;" />
         </a>
         <a href="https://www.hackerrank.com/profile/adiningule2" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="margin-right: 15px;" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="margin-right: 10px;" />
         </a>
         <a href="https://www.leetcode.com/adii2202/" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 15px;" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 10px;" />
         </a>
     </p>
 </div>
