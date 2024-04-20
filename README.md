@@ -3,10 +3,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adii2202&label=Profile%20views&color=0e75b6&style=flat" alt="adii2202" /> </p>
 
-
-- 🌱 I’m currently learning **AI | Flutter**
-
-- 💬 Ask me about **Full Stack Development | Machine learning | Flutter**
+- 💬 Ask me about **Full Stack Development | AI | Machine learning | Flutter**
 
 - 📫 How to reach me **adiningule2@gmail.com**
 
@@ -27,6 +24,9 @@
     </a>
     <a href="https://www.leetcode.com/adii2202/" target="_blank">
         <img alt="LeetCode" src="leetcodelogo.png" width="40" height="40"/>
+    </a>
+    <a href="https://www.freelancer.com/u/Adii22" target="_blank">
+        <img alt="Freelancer" src="freelancer.png" width="40" height="40"/>
     </a>
 </p>
 
