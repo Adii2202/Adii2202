@@ -9,7 +9,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/Adii2202/count.svg" />
 </p>
 
 - 🌱 I’m currently learning **AI | Flutter**
