@@ -3,9 +3,9 @@
   <img src="https://user-images.githubusercontent.com/72618584/136240367-bbd513b9-ca0a-4fba-985e-8aec33b26f2e.gif" width="25" alt "#">
   &nbsp;&nbsp; I'm Aditya Ningule
 </h3>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4500&pause=1000&color=0E75B6&width=350&center=true&width=480&lines=%3C+Machine+Learning+|+Full+Stack+Developer+%2F%3E;%3C+Full+Stack+Developer+%2F%3E">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4500&pause=1000&color=0E75B6&width=350&center=true&lines=%3C+Machine+Learning+|%7C+Full+Stack+Developer+%2F%3E;%3C+Full+Stack+Developer+%2F%3E" alt="Typing Animation">
+</div>
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adii2202&label=Profile%20views&color=0e75b6&style=flat" alt="adii2202" /> </p>
