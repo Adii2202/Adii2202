@@ -59,7 +59,7 @@
   <img src="nextjs.jpeg" alt="Next.js" width="40" height="40" style="display: inline-block;"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="display: inline-block;"/>
 </div>
-<hr>
+<div align="center" style="background-image: linear-gradient(to right, #8A2BE2, #FF00FF); height: 2px; width: 80%; margin: 10px auto;"></div>
 
   <p align="center">
     <img src="express.png" alt="Express.js" width="40" height="40"/>
