@@ -97,7 +97,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/Adii2202" >  
-    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Adii2202&theme=react&border=61dafb&hide_border=true" alt="Aditya" />
+    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Adii2202&theme=react&border=61dafb&hide_border=true"/>
     </a>
     <a href="https://github.com/Adii2202">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Adii2202&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
