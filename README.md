@@ -22,12 +22,12 @@
         <img alt="Freelancer" src="freelancerlogo.jpeg" width="40" height="40"/>
     </a>
 </p>
-<!-- 
+ 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31argg2pxir3wljqfyrp3dx5ebvu)
 </div>
 
--->
+
 <!--
 <div style="background: linear-gradient(to bottom right, #8a2be2, #4b0082); border: 2px solid #8a2be2; border-radius: 15px; padding: 20px; width: fit-content; margin: 0 auto;">
     <h3 style="color: #ffffff; font-family: Arial, sans-serif; text-align: center;">Connect with me:</h3>
