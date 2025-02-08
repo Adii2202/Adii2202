@@ -110,7 +110,7 @@
     </td>
     <td>
       <a href="https://github.com/Adii2202">
-        <img width=390 src="https://github-readme-stats.vercel.app/api?username=Adii2202&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+        <img width=390 src="https://github-readme-stats.vercel.app/api?username=Adii2202&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide_title=true" />
       </a>
     </td>
   </tr>
